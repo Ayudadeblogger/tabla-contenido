@@ -1,6 +1,6 @@
 var tabbedTOC_defaults = {
 	blogUrl: "https://www.ayudadeblogger.com/", // Blog URL
-	containerId: "tabbed-toc", // Container ID
+	containerId: "tabla-cont", // Container ID
 	activeTab: 1, // The default active tab index (default: the first tab)
 	showDates: false, // true to show the post date
 	showSummaries: false, // true to show the posts summaries
